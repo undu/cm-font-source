@@ -17,8 +17,8 @@
 
 <resources>
 
-    <string name="theme_name">Theme Template</string>
-    <string name="theme_author">CyanogenMod</string>
-    <string name="theme_email">support@themetemplate.com</string>
+    <string name="theme_name">Source Pro</string>
+    <string name="theme_author">Pau Ruiz</string>
+    <string name="theme_email">pr.safont@gmail.com</string>
 
 </resources>

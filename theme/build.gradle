@@ -1,3 +1,5 @@
+import com.android.build.gradle.internal.dsl.ProductFlavor
+
 apply plugin: 'com.android.application'
 
 android {
@@ -5,7 +7,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.your.theme.template"
+        applicationId "undu.fonts.source"
         minSdkVersion 21
         targetSdkVersion 21
         versionCode 1
